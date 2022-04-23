@@ -1,1 +1,1 @@
-web: pip install . -U && martin_project-run
+web: pip install . -U && martin-project-lewagon-run
